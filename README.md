@@ -2,6 +2,13 @@
 
 [![PyPI version](https://badge.fury.io/py/heospy.svg)](https://badge.fury.io/py/heospy)
 
+Fork of https://github.com/open-denon-heos/heospy.
+
+I will use this repo to integrate my change into original repo.
+
+This repo is imported from API server: https://github.com/open-denon-heos/heos-api-server/blob/main/api-server/requirements.txt
+
+
 ## Requirements
 
 You have an [HEOS][] speaker in your local network and Python 3.
